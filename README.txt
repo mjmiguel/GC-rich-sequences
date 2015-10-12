@@ -7,4 +7,4 @@ that are G or C) of each sequence in the file. This prints the GC content of eac
 
 Run example:
 
-C:\\>python gc_rich.py sequences.fas
+C:\>python gc_rich.py sequences.fas
